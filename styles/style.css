@@ -334,6 +334,7 @@
 .footer {
   box-sizing: border-box;
   padding: 60px 80px;
+  color: #ffffff;
   background-color: #1f1f1f;
 }
 
@@ -342,12 +343,12 @@
 }
 
 .footer__column_content_hours {
-  color: #fff;
+  color: #ffffff;
   margin-left: auto;
 }
 
 .footer__column_content_social {
-  color: #fff;
+  color: #ffffff;
   margin-left: 80px;
 }
 
@@ -371,7 +372,7 @@
 }
 
 .footer__column-link {
-  color: white;
+  color: #ffffff;
   text-decoration: none;
   display: flex;
   align-items: center;
@@ -384,6 +385,6 @@
 }
 
 .footer__copyright {
-  color: #fff;
+  color: #ffffff;
   margin-top: 100px;
 }
